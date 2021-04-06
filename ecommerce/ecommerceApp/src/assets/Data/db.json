@@ -1,0 +1,47 @@
+{
+    "products": [
+      { 
+        "id": 1, 
+        "name": "shirt",
+        "category_id": 5,
+        "descriptions": "descriptions here",
+        "price": "300",
+        "is_available": true,
+        "rating": 4,
+        "review": 150,
+        "vendor_shop": "abc shop",
+        "waranty": 1
+     },
+     { 
+        "id": 2, 
+        "name": "shirt2",
+        "category_id": 6,
+        "descriptions": "descriptions here",
+        "price": "400",
+        "is_available": true,
+        "rating": 5,
+        "review": 120,
+        "vendor_shop": "ayc shop",
+        "waranty": 1
+     },
+     { 
+        "id": 3, 
+        "name": "shirt",
+        "category_id": 7,
+        "descriptions": "descriptions here",
+        "price": "500",
+        "is_available": true,
+        "rating": 6,
+        "review": 140,
+        "vendor_shop": "xyz shop",
+        "waranty": 1
+     }
+    ],
+    "comments": [
+      { "id": 1, "body": "some comment", "postId": 1 },
+      { "id": 2, "body": "some comment", "postId": 1 }
+    ],
+    "profile": {
+      "name": "typicode"
+    }
+  }
